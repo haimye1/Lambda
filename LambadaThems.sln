@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambadaThems", "LambadaThems\LambadaThems.csproj", "{0ABFB10B-E440-4C20-A35D-528A5FE2A689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambadaTest", "LambadaTest\LambadaTest.csproj", "{6CB9C233-FEF4-4B56-9EF8-DE868524EC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABFB10B-E440-4C20-A35D-528A5FE2A689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABFB10B-E440-4C20-A35D-528A5FE2A689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABFB10B-E440-4C20-A35D-528A5FE2A689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABFB10B-E440-4C20-A35D-528A5FE2A689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB9C233-FEF4-4B56-9EF8-DE868524EC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB9C233-FEF4-4B56-9EF8-DE868524EC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB9C233-FEF4-4B56-9EF8-DE868524EC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB9C233-FEF4-4B56-9EF8-DE868524EC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E6D1C3-EC6D-4AF6-AC06-6243B69ECA65}
+	EndGlobalSection
+EndGlobal
