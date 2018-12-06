@@ -1,0 +1,14 @@
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\MainWindow.g.cs
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\App.g.cs
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest_MarkupCompile.cache
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest_MarkupCompile.lref
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\bin\Debug\LambadaTest.exe.config
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\bin\Debug\LambadaTest.exe
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\bin\Debug\LambadaTest.pdb
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\MainWindow.baml
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest.g.resources
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest.Properties.Resources.resources
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest.csproj.GenerateResource.cache
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest.csproj.CoreCompileInputs.cache
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest.exe
+C:\Users\חורי\source\repos\LambadaThems\LambadaTest\obj\Debug\LambadaTest.pdb
